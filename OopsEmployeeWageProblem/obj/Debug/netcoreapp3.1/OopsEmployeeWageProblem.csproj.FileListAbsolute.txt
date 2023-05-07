@@ -1,0 +1,11 @@
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\bin\Debug\netcoreapp3.1\OopsEmployeeWageProblem.exe
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\bin\Debug\netcoreapp3.1\OopsEmployeeWageProblem.deps.json
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\bin\Debug\netcoreapp3.1\OopsEmployeeWageProblem.runtimeconfig.json
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\bin\Debug\netcoreapp3.1\OopsEmployeeWageProblem.runtimeconfig.dev.json
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\bin\Debug\netcoreapp3.1\OopsEmployeeWageProblem.dll
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\bin\Debug\netcoreapp3.1\OopsEmployeeWageProblem.pdb
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\obj\Debug\netcoreapp3.1\OopsEmployeeWageProblem.csprojAssemblyReference.cache
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\obj\Debug\netcoreapp3.1\OopsEmployeeWageProblem.AssemblyInfoInputs.cache
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\obj\Debug\netcoreapp3.1\OopsEmployeeWageProblem.AssemblyInfo.cs
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\obj\Debug\netcoreapp3.1\OopsEmployeeWageProblem.dll
+D:\DLS-RFP-278\Project\OopsEmployeeWageProblem\OopsEmployeeWageProblem\obj\Debug\netcoreapp3.1\OopsEmployeeWageProblem.pdb
