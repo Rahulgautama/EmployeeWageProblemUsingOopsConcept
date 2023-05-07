@@ -10,6 +10,10 @@ namespace OopsEmployeeWageProblem
 
             CalculateEmployeeWage empWage = new CalculateEmployeeWage();
             empWage.CalculateEmployeeWageTotalHrsAMonth();
+            
+                
+            
+            
         }
     }
 }

@@ -47,6 +47,12 @@ namespace OopsEmployeeWageProblem
             Console.WriteLine("Total Working Days: " + totalWorkingDays);
             Console.WriteLine("Total Working Hours: " + totalEmpHour);
             Console.WriteLine("Total Employee Wage : " + totalEmpWage);
+            //List<int> emp = new List<int>();
+            //emp.Add(totalEmpHour);
+            //emp.Add(empWage);
+            //emp.Add(totalEmpWage);
+
+            
         }
        
     }
