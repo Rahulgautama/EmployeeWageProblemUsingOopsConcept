@@ -8,8 +8,9 @@ namespace OopsEmployeeWageProblem
         {
             Console.WriteLine("Welcome to Employee Wage Computation Program using Oops Concept");
 
-            CheckEmployeeAttendance empAttendance = new CheckEmployeeAttendance();
-            empAttendance.EmpoyeeAttendacne();
+            CalculateEmployeeWageFullTime empCalWage = new CalculateEmployeeWageFullTime();
+            empCalWage.CalculateEmployeeWage();
+
         }
     }
 }
