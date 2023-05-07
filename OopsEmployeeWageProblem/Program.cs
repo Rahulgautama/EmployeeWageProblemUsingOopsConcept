@@ -9,8 +9,7 @@ namespace OopsEmployeeWageProblem
             Console.WriteLine("Welcome to Employee Wage Computation Program using Oops Concept");
 
             CalculateEmployeeWage empWage = new CalculateEmployeeWage();
-            empWage.CalculateEmployeeWageSwitchCase();
-
+            empWage.CalculateEmployeeWageMonth();
         }
     }
 }
